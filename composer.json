@@ -16,7 +16,7 @@
     "require": {
         "php": "^7.0",
         "egeloen/json-builder": "^2.0|^3.0",
-        "symfony/event-dispatcher": "^2.7|^5.0"
+        "symfony/event-dispatcher": "^4.0"
     },
     "require-dev": {
         "egeloen/serializer": "^1.0",
